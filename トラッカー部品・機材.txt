@@ -1,0 +1,61 @@
+BNO085センサーモジュール
+https://ja.aliexpress.com/item/1005006374348414.html?channel=twinner
+
+ESP32-C3-WROOM-02-N4
+https://akizukidenshi.com/catalog/g/g117493/
+
+低損失レギュレーター 3.3V 600mA RT9080-33GJ5
+https://akizukidenshi.com/catalog/g/g129588/
+
+ショットキーバリアダイオード
+https://akizukidenshi.com/catalog/g/g116304/
+
+10kΩ抵抗
+https://akizukidenshi.com/catalog/g/g130355/
+
+セラミックコンデンサ 1μF
+https://akizukidenshi.com/catalog/g/g116994/
+
+セラミックコンデンサー 10μF
+https://akizukidenshi.com/catalog/g/g113161/
+
+表面実装用USBコネクター microBメス
+https://akizukidenshi.com/catalog/g/g105254/
+
+XT30PW-M (基板側)
+https://akizukidenshi.com/catalog/g/g117949/
+
+XT30U-F(ケーブル側)
+https://akizukidenshi.com/catalog/g/g117950/
+
+使用機材
+FX600D-813
+https://www.amazon.co.jp/%E7%99%BD%E5%85%89-HAKKO-%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E5%BC%8F%E6%B8%A9%E5%BA%A6%E5%88%B6%E5%BE%A1%E3%81%AF%E3%82%93%E3%81%A0%E3%81%93%E3%81%A6-FX600D-813-%E6%B8%A9%E5%BA%A6%E7%AF%84%E5%9B%B2200%EF%BD%9E540%E2%84%83/dp/B0CTLLH658?th=1
+
+コテ先 T18-C2
+https://www.amazon.co.jp/%E7%99%BD%E5%85%89-HAKKO-T18C2-%E3%81%93%E3%81%A6%E5%85%88-T18-C2/dp/B004OR7UBM/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=LUHB6RY7Y6MP&dib=eyJ2IjoiMSJ9.FNrA0urO_NraQCT-me4vZV-EF7SSz3f9gI9fyQ8FN9-TiNxEUck_nfZC9ZOXCdJd6TGHjElxwAIYab1Cm6Kf9RWjn9SAxJQ668qnHK0aFjjpaTvxbXYoV3OHd_n__mh-.37H1WkJm8MZYnDFCna9nb2lC-_lqXGKRTs_XBnufhXs&dib_tag=se&keywords=%EF%BD%94%EF%BC%91%EF%BC%98%E2%88%92%EF%BD%83%EF%BC%92&qid=1746013400&s=diy&sprefix=t18%2Bc2%2Cdiy%2C189&sr=1-1&th=1
+
+コテ先 T18-K
+https://www.amazon.co.jp/%E7%99%BD%E5%85%89-HAKKO-T18K-%E3%81%93%E3%81%A6%E5%85%88-T18-K/dp/B004ORB8MY/ref=pd_sbs_d_sccl_3_4/356-1935162-5317839?pd_rd_w=kA807&content-id=amzn1.sym.13eb81e1-7d13-4eb9-803d-fea9198bc9c1&pf_rd_p=13eb81e1-7d13-4eb9-803d-fea9198bc9c1&pf_rd_r=KRJGEH34EFDASNNS4YBG&pd_rd_wg=MgTPp&pd_rd_r=4680b3a4-5cc1-4e0f-95bf-dfba3dded949&pd_rd_i=B004ORB8MY&psc=1
+
+鉛フリーはんだ φ0.3mm(表面実装部品用)
+https://akizukidenshi.com/catalog/g/g118245/
+
+鉛フリーはんだ Φ0.8mm(その他)
+https://akizukidenshi.com/catalog/g/g112535/
+
+フラックス
+https://www.amazon.co.jp/%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%A4%E3%83%88-HB-L15F-%E7%84%A1%E6%B4%97%E6%B5%84%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9-15ml/dp/B01GROTPFS/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1A5NXEAF7BXKN&dib=eyJ2IjoiMSJ9.qYmF7_cUqRkuI5KPmDUgIWXxqw3QlVOnBRZBFhxZpIEdB7vwCmq5aXbFW57aUE1Mkdiy95yUkKlix1WC5dC4lQgTY7IP5ja9JetfDtWC2RsDa1Oe_D2d9bfqxXMkagWoqvFA8nP5lb--1XML-jb1IWZiGuIki2azl1iDLmM2sqtSu7lb3SzkjuSHaXxhXTY9PiBCaHAA34_UU4KBFw-ZCAgtBHUO_P0gdrADbXdWNIZ3TM4-npBIEE6xPJc_-E5PPu6s62CWetL-KRIb72fHcL5lK4RnmAj-CcZVgUWVJiM.tT7L_Sy1Cavj8D77aDl5obWsxCcLm64t24GfrozDf5Y&dib_tag=se&keywords=%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9+%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%A4%E3%83%88&qid=1746013650&s=diy&sprefix=%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9+%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%A4%E3%83%88%2Cdiy%2C177&sr=1-1
+
+フラックスクリーナー
+https://www.amazon.co.jp/%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%A4%E3%83%88-2%E5%80%8B%E3%82%BB%E3%83%83%E3%83%88-FL-300-%E5%90%84%E7%A8%AE%E6%B4%97%E6%B5%84%E5%89%A4-%E9%83%A8%E5%93%81%E5%AE%9F%E8%A3%85%E5%BE%8C%E3%81%AE%E3%83%97%E3%83%AA%E3%83%B3%E3%83%88%E5%9F%BA%E6%9D%BF%E3%81%AB%E4%BB%98%E7%9D%80%E3%81%97%E3%81%9F%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9%E6%AE%8B%E6%B8%A3%E3%81%AE%E6%B4%97%E6%B5%84%E3%81%AB%E3%83%BB%E3%82%B9%E3%83%97%E3%83%AC%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%97420ml/dp/B002PZTATA/ref=sr_1_11?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=1A5NXEAF7BXKN&dib=eyJ2IjoiMSJ9.qYmF7_cUqRkuI5KPmDUgIWXxqw3QlVOnBRZBFhxZpIEdB7vwCmq5aXbFW57aUE1Mkdiy95yUkKlix1WC5dC4lQgTY7IP5ja9JetfDtWC2RsDa1Oe_D2d9bfqxXMkagWoqvFA8nP5lb--1XML-jb1IWZiGuIki2azl1iDLmM2sqtSu7lb3SzkjuSHaXxhXTY9PiBCaHAA34_UU4KBFw-ZCAgtBHUO_P0gdrADbXdWNIZ3TM4-npBIEE6xPJc_-E5PPu6s62CWetL-KRIb72fHcL5lK4RnmAj-CcZVgUWVJiM.tT7L_Sy1Cavj8D77aDl5obWsxCcLm64t24GfrozDf5Y&dib_tag=se&keywords=%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9+%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%A4%E3%83%88&qid=1746013650&s=diy&sprefix=%E3%83%95%E3%83%A9%E3%83%83%E3%82%AF%E3%82%B9+%E3%82%B5%E3%83%B3%E3%83%8F%E3%83%A4%E3%83%88%2Cdiy%2C177&sr=1-11
+
+はんだ吸取線
+https://akizukidenshi.com/catalog/g/g102539/
+
+ピンセット
+https://akizukidenshi.com/catalog/g/g102541/
+
+逆作用ピンセット
+https://akizukidenshi.com/catalog/g/g105124/
+その他ニッパ、ラジオペンチ、ワイヤストリッパ等
